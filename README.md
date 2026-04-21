@@ -45,7 +45,7 @@
 
 ## 🔥 Top Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahd3li\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahd3li&layout=compact&bg_color=0f2027&title_color=4facfe&text_color=ffffff&hide_border=true)
 
 ---
 
