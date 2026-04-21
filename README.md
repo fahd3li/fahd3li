@@ -20,7 +20,9 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Lorienx-Contact%20via%20Email-203a43?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:fahdali@api.lorienx.com)
+[![Lorienx](https://img.shields.io/badge/Lorienx-Contact%20\(Official\)-0f2027?style=for-the-badge\&logo=google-chrome\&logoColor=white)](mailto:contact@lorienx.com)
+
+[![Fahd](https://img.shields.io/badge/Personal-Direct%20Email-203a43?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fahdali@api.lorienx.com)
 
 
 ---
