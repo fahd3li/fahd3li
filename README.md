@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Fahd%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Lorienx&descSize=18&descAlign=50&descAlignY=70)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:1c2b36,70:2c5364,100:4facfe&height=230&section=header&text=Fahd%20Ali&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Building%20Digital%20Products%20%7C%20Lorienx&descSize=18&descAlign=50&descAlignY=72)
 
 # 👋 Hi, I'm Fahd Ali
 
