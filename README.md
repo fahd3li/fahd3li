@@ -18,6 +18,12 @@
 * Focused on automation, backend systems, and digital products
 * Turning ideas into real-world solutions
 
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Lorienx-Contact%20via%20Email-203a43?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:fahdali@api.lorienx.com)
+
+🌐 https://lorienx.com
+
 ---
 
 ## 🚀 Featured Work
@@ -53,13 +59,6 @@
 
 Building global digital products from Saudi Arabia.
 
----
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Lorienx-Contact%20via%20Email-203a43?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:fahdali@api.lorienx.com)
-
-🌐 https://lorienx.com
 
 ---
 
