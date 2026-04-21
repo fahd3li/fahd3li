@@ -20,9 +20,12 @@
 
 ## 📫 Contact
 
-[![Lorienx](https://img.shields.io/badge/Lorienx-Contact%20\(Official\)-0f2027?style=for-the-badge\&logo=google-chrome\&logoColor=white)](mailto:contact@lorienx.com)
+[![Lorienx](https://img.shields.io/badge/Business-Lorienx%20Contact-0f2027?style=for-the-badge\&logo=google-chrome\&logoColor=white)](mailto:contact@lorienx.com)
 
-[![Fahd](https://img.shields.io/badge/Personal-Direct%20Email-203a43?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fahdali@api.lorienx.com)
+[![Email](https://img.shields.io/badge/Direct-Fahd%20Email-203a43?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fahdali@api.lorienx.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Work%20Chat-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/966502035455)
+
 
 
 ---
@@ -66,6 +69,9 @@ Building global digital products from Saudi Arabia.
 ![Visitors](https://komarev.com/ghpvc/?username=fahd3li)
 
 ⭐ If you like my work, feel free to explore my repositories and projects.
+
+---
+
 🌐 https://lorienx.com
 
-
+---
