@@ -22,7 +22,6 @@
 
 [![Email](https://img.shields.io/badge/Lorienx-Contact%20via%20Email-203a43?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:fahdali@api.lorienx.com)
 
-🌐 https://lorienx.com
 
 ---
 
@@ -65,3 +64,6 @@ Building global digital products from Saudi Arabia.
 ![Visitors](https://komarev.com/ghpvc/?username=fahd3li)
 
 ⭐ If you like my work, feel free to explore my repositories and projects.
+🌐 https://lorienx.com
+
+
