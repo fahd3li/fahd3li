@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Fahd
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=FahdAli&fontSize=40)
 
 🚀 Full Stack Developer | Laravel | JavaScript
 💡 Building scalable web apps & digital products
@@ -14,8 +15,15 @@
 * 🎯 Goal: Build global tech products
 
 ---
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=fahd3li&show_icons=true&theme=radical)
 
 ## 🛠 Tech Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
 
 **Backend**
 
@@ -37,24 +45,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
----
-
 ## 🔥 Top Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahd3li\&layout=compact)
 
 ---
 
 ## 📫 Contact Me
 
-* Email: [your@email.com](mailto:your@email.com)
-* Website: https://your-site.com
+* Email: [fahdali@lorienx.com](mailto:fahdali@lorienx.com)
+* Website: https://lorienx.com
 
 ---
+
+![Visitors](https://komarev.com/ghpvc/?fahd3li=FAHD3LI)
 
 ## ⚡ Fun Fact
 
